@@ -3,6 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #ddd;
   }
   
   /* Estilos del header */
@@ -49,4 +50,4 @@ body {
   nav ul li a:hover {
     color: #ddd;
   }
-  
+  /* ----------------------------------------------------------------------------- */
